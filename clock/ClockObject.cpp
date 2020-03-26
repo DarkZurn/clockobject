@@ -1,4 +1,4 @@
-#include "singClock.h"
+#include "ClockObject.h"
 
 //Объект "Часы" -сингелтон
 TimeClock* TimeClock ::_self = 0;
