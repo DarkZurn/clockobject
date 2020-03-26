@@ -10,7 +10,7 @@
 //using namespace std::literals::chrono_literals;
 using namespace std::chrono_literals;
 
-//Объект "Часы" -сингелтон
+//Объект "Часы"
 class TimeClock {
 public: 
   TimeClock();
